@@ -8,3 +8,5 @@ Given an undirected graph, the Vertex Coloring Problem(VCP) consists of assignin
 
 
 The work is not fully completed yet. Work In Progress.
+I tried using C++. I wanted to learn Generic Programming in C++. I have used Boost graph Library build the algorithm.
+Optimization solver - GUROBI.
