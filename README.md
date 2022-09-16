@@ -1,6 +1,6 @@
 # gcp-BOOST
 An Implementation of the following paper:
-"An Improved DSATUR‐Based Branch‐and‐Bound Algorithm for the Vertex Coloring Problem"
+"An Improved DSATUR‐Based Branch‐and‐Bound Algorithm for the Vertex Coloring Problem" - Furini et al.
 
 Paper Abstract:
 
